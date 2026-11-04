@@ -1,4 +1,4 @@
-<img width="882" height="246" alt="Captura de tela 2026-11-04 202652" src="https://github.com/user-attachments/assets/71458885-8cc6-4b2e-a76b-c3d05eae2e15" />
+
 # Clínica Veterinária — API REST (ac2_atividade2)
 
 **Aluno:** Márcio Soares de Brito  
