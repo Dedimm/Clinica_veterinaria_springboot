@@ -1,3 +1,4 @@
+<img width="882" height="246" alt="Captura de tela 2026-11-04 202652" src="https://github.com/user-attachments/assets/71458885-8cc6-4b2e-a76b-c3d05eae2e15" />
 # Clínica Veterinária — API REST (ac2_atividade2)
 
 **Aluno:** Márcio Soares de Brito  
@@ -126,12 +127,16 @@ POST /vacinas
 
 **Tutores — criação com sucesso (201) e CPF duplicado (422)**
 
-![Tutores: criar e CPF duplicado](prints/01-tutores-criar-e-cpf-duplicado.png)
+<img width="882" height="246" alt="Captura de tela 2026-11-04 202652" src="https://github.com/user-attachments/assets/594f4a19-2afc-4f72-9255-bbdf3280051c" />
+
 
 **Tutores — id inexistente (404) e atualização (200); animais — criação (201)**
 
-![Tutores 404, atualização e animais](prints/02-tutores-404-atualizar-e-animais.png)
+
+<img width="884" height="465" alt="Captura de tela 2026-11-04 202710" src="https://github.com/user-attachments/assets/c58e374d-b24e-456d-9d15-395250eb0f9f" />
+
 
 **Consultas — agendamento (201), conflito de horário (422), espécie não habilitada (422) e data no passado (422)**
 
-![Consultas: agendamento e regras](prints/03-consultas-agendamento-e-regras.png)
+<img width="887" height="500" alt="Captura de tela 2026-11-04 202729" src="https://github.com/user-attachments/assets/45eb84e8-aa08-4d32-ae77-6619b65bacf8" />
+
