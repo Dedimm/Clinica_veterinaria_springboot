@@ -7,6 +7,10 @@
 
 API REST em Spring Boot para gerenciar uma clínica veterinária: tutores, animais, veterinários, agendamento de consultas, prontuário (atendimentos) e vacinação.
 
+### Diagrama de classe
+<img width="2734" height="1081" alt="diagrama-classes" src="https://github.com/user-attachments/assets/4365b8f9-3b8e-4b2d-b673-94ca1009663e" />
+
+
 ## Tecnologias
 
 - Java 21
@@ -119,6 +123,7 @@ POST /vacinas
 | `ConsultaRepository` | `agendaPorPeriodo` | `GET /consultas/agenda?inicio=2026-12-01&fim=2026-12-31&status=AGENDADA` |
 | `VacinaRepository` | `aplicadasNoPeriodo` | `GET /vacinas?inicio=2026-01-01&fim=2026-12-31` |
 | `TutorRepository` | `comPeloMenosAnimais` | `GET /tutores/com-animais?minimo=2` |
+
 
 ## Testes no Postman
 
