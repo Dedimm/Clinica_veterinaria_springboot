@@ -121,9 +121,6 @@ POST /vacinas
 
 ## Testes no Postman
 
-1. Com a aplicação rodando, importe `postman/clinica-veterinaria.postman_collection.json` no Postman.
-2. Abra a coleção, clique em **Run** (Collection Runner) e execute todas as requisições na ordem.
-3. A coleção tem 60 requisições, entre casos de sucesso e de erro, cada uma com testes automáticos de status HTTP e de mensagem. CPF, CRMV e datas são gerados a cada execução, então ela pode ser repetida sem reiniciar a API.
 
 ### Prints dos testes realizados
 
